@@ -7,18 +7,25 @@ Create a custom VPC with both public and private subnets, configure internet acc
 
 ## Repository Structure
 
-AWS-Networking-Assignment/
-│
-├─ README.md # This file
-├─ VPC-setup.md # Steps to create VPC, subnets, IGW, NAT Gateway
-├─ EC2-setup.md # Public & Private EC2 setup
-├─ Bastion-Host.md # Optional jump box setup
-├─ CloudWatch.md # CloudWatch monitoring & logs steps
-├─ diagrams/
-│ └─ vpc-diagram.png # Architecture diagrams
-└─ scripts/
-└─ cloudwatch-install.sh # CloudWatch installation script
+AWS-Networking-Assignment
 
+README.md – This file
+
+VPC-setup.md – Steps to create VPC, subnets, IGW, NAT Gateway
+
+EC2-setup.md – Public & Private EC2 setup
+
+Bastion-Host.md – Optional jump box setup
+
+CloudWatch.md – CloudWatch monitoring & logs steps
+
+diagrams/
+
+vpc-diagram.png – Architecture diagrams
+
+scripts/
+
+cloudwatch-install.sh – CloudWatch installation script
 
 ---
 
