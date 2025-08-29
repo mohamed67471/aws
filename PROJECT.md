@@ -53,7 +53,7 @@ Provides internet access for public subnets and the Application Load Balancer (A
 ---
 
 ## Architecture Diagram
-> Replace the path below with the actual diagram file in your repository.
+
 
 ![Architecture Diagram]<img width="940" height="722" alt="image" src="https://github.com/user-attachments/assets/6e90c6c1-9297-411e-b04c-6cd9a3645647" />
 
