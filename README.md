@@ -60,14 +60,6 @@ Each project lives in a separate branch:
 - [Network Assignment 1](https://github.com/mohamed67471/aws/tree/network-assignment-1) 
 - [Network Assignment 2](https://github.com/mohamed67471/aws/tree/network-assignment-2)  
 
-Clone the repo and switch to the desired branch:  
-
-```bash
-# Example: Checkout project 1
-git checkout network-assignment-1
-
-# Example: Checkout project 2
-git checkout network-assignment-2
 
 
 
